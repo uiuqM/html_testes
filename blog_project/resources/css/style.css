@@ -1,0 +1,13 @@
+.inicio{
+    display: inline;
+    background-color: aqua;
+}
+.titulo{
+    display: inline;
+    background-color: aqua;
+    padding: 40px;
+}
+.menu{
+    
+    list-style: none;
+}
